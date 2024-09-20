@@ -1,3 +1,3 @@
 # ApCSA
 For APCSA
-wassup this my APCSa stuff
+My APCSA Repository. Soon to be updated will all my projects.
